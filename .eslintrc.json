@@ -1,5 +1,3 @@
 {
-  "extends": [
-    "@jaybeeuu/eslint-config/base"
-  ]
+  "extends": ["@jaybeeuu/eslint-config/base"]
 }
